@@ -1,1 +1,33 @@
+-- SECTION 1: Database Creation
 
+-- SECTION 2: Data Cleaning
+
+-- SECTION 3: Date Conversion
+
+-- SECTION 4: Duplicate Removal
+
+-- SECTION 5: Star Schema Creation
+
+-- SECTION 6: Dimension Table Loading
+
+-- SECTION 7: Fact Table Loading
+
+-- SECTION 8: Index Creation
+
+-- SECTION 9: Business Analysis Queries
+
+-- Revenue Analysis
+
+-- Monthly Trend
+
+-- Top Cities
+
+-- Top Restaurants
+
+-- Cuisine Analysis
+
+-- Customer Segmentation
+
+-- Weekend Analysis
+
+-- Business Recommendation Queries
