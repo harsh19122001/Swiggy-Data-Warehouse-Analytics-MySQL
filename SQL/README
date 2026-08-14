@@ -1,3 +1,21 @@
+## SQL Workflow
+
+The complete project workflow is available in a single SQL script:
+
+📄 SQL/Swiggy_Data_Warehouse_Project.sql
+
+The script covers:
+
+- Data Cleaning
+- Data Validation
+- Date Standardization
+- Duplicate Removal
+- Star Schema Creation
+- ETL Loading
+- Fact Table Population
+- Query Optimization
+- Business Analytics
+
 -- SECTION 1: Database Creation
 
 -- SECTION 2: Data Cleaning
